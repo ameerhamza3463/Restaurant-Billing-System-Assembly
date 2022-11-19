@@ -1,43 +1,43 @@
- --------------------------------------------------------------
-|			                         MENU                              |
-|--------------------------------------------------------------|
-|		                   	ORIENTAL FOOD		                         |
-|							                                                       |
-|   1-    	Chicken Biryani              Rs: 100/Plate          |
-|   2-    	Beef Biryani       	         Rs: 150/Plate          |
-|   3-    	Chicken Karahi       	       Rs: 600/Karhai         |
-|   4-    	Mutton Karahi       	        Rs: 900/Karhai         |
-|   5-    	White Karahi     	           Rs: 1000/Karhai        |
-|   6-    	Chicken Haleem       	       Rs: 100/Plate          |
-|   7-    	Chicken Tikka       	        Rs: 100                |
-|   8-    	Naan    	   	                Rs: 15/naan            |
-|   9-    	Chapati       		             Rs: 10/chapati         |
-|							                                                       |
-|			                    CHINEESE FOOD                          |
-|							                                                       |
-|  10-    	Egg Fried Rice       	       Rs: 150/Plate          |
-|  11-    	Chicken Macaroni             Rs: 300                |
-|  12-    	Chicken Manchurian           Rs: 300	               |
-|  13-    	Chowmein	       	            Rs: 200                |
-|							                                                       |
-|			                     FAST FOOD                             |
-|							                                                       |
-|  13-    	Zinger Burger       	        Rs: 100/Burger         |
-|  14-    	Chicken Pizza                Rs: 800/Pizza          |
-|  15-    	Chicken Shawarma       	     Rs: 200/Shawarma       |
-|  16-    	French Fries       	         Rs: 100/Box            |
-|							                                                       |
-|			                     DRINKS			                             |
-|							                                                       |
-|  17-    	Coca Cola       	            Rs: 100/Litre          |
-|  18-    	Sprite       		              Rs: 100/Litre          |
-|  19-    	Pine Apple Juice       	     Rs: 80/Glass           |
-|  20-    	Banana MilkShake       	     Rs: 60/Glass           |
-|							                                                       |
-|			                     DESSERT 			                           | 
-|							                                                       |
-|  21-    	Chocolate Cake       	       Rs: 1000	              |
-|  22-    	Coconut Cream Pie            Rs: 600                |
-|  23-    	Apple Pie	      	            Rs: 300	               |
-|  24-    	Vanilla Icecream       	     Rs: 200/Cup            |
- --------------------------------------------------------------
+ -------------------------------------------------------------------
+|								MENU								|
+|-------------------------------------------------------------------|
+|							ORIENTAL FOOD							|
+|																	|
+|   1-    	Chicken Biryani					Rs: 100/Plate			|
+|   2-    	Beef Biryani					Rs: 150/Plate			|
+|   3-    	Chicken Karahi					Rs: 600/Karhai			|
+|   4-    	Mutton Karahi					Rs: 900/Karhai			|
+|   5-    	White Karahi					Rs: 1000/Karhai			|
+|   6-    	Chicken Haleem					Rs: 100/Plate			|
+|   7-    	Chicken Tikka					Rs: 100					|
+|   8-    	Naan							Rs: 15/naan				|
+|   9-    	Chapati							Rs: 10/chapati			|
+|																	|
+|							CHINEESE FOOD							|
+|																	|
+|  10-    	Egg Fried Rice					Rs: 150/Plate			|
+|  11-    	Chicken Macaroni				Rs: 300					|
+|  12-    	Chicken Manchurian				Rs: 300					|
+|  13-    	Chowmein						Rs: 200					|
+|							                                        |
+|			                     FAST FOOD							|
+|																	|
+|  13-    	Zinger Burger					Rs: 100/Burger			|
+|  14-    	Chicken Pizza					Rs: 800/Pizza			|
+|  15-    	Chicken Shawarma				Rs: 200/Shawarma		|
+|  16-    	French Fries					Rs: 100/Box				|
+|							                                        |
+|			                     DRINKS			                    |
+|							                                        |
+|  17-    	Coca Cola						Rs: 100/Litre			|
+|  18-    	Sprite							Rs: 100/Litre			|
+|  19-    	Pine Apple Juice				Rs: 80/Glass			|
+|  20-    	Banana MilkShake				Rs: 60/Glass			|
+|																	|
+|			                     DESSERT 			                | 
+|							                                        |
+|  21-    	Chocolate Cake					Rs: 1000	            |
+|  22-    	Coconut Cream Pie				Rs: 600					|
+|  23-    	Apple Pie						Rs: 300					|
+|  24-    	Vanilla Icecream				Rs: 200/Cup				|
+ --------------------------------------------------------------------
